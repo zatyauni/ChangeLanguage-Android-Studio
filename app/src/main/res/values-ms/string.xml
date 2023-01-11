@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Tukar Bahasa</string>
+    <string name="hindi">TAMIL</string>
+    <string name="english">BI</string>
+    <string name="Melayu">BM</string>
+    <string name="select_language">Pilih Bahasa</string>
+</resources>

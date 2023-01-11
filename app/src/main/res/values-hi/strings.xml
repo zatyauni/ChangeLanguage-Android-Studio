@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ChangeLanguage</string>
+    <string name="hindi">ஹிந்தி</string>
+    <string name="english">ஆங்கிலம்</string>
+    <string name="Melayu">மலாய்</string>
+    <string name="select_language">மொழியை தேர்ந்தெடுங்கள்</string>
+</resources>
